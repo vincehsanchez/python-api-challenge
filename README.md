@@ -52,6 +52,12 @@ Create a map that displays a point for every city in the city_data_df DataFrame:
 
 Narrow down the city_data_df DataFrame to find your ideal weather condition.
 
-Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
-For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
-Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
+Create a new DataFrame called hotel_df to store:
+- city
+- country
+- coordinates
+- humidity
+
+Find the first hotel located within 10,000 meters of your coordinates for each city with Geoapify API.
+
+Add hotel name and the country as additional information in the hover message for each city on the map.
