@@ -1,5 +1,12 @@
 # python-api-challenge
 
+**NOTE:**
+1. download "Module 6 Challenge" folder 
+2. open "Module 6 Challenge" folder
+3. open "starter_code" folder
+4. start with WeatherPy for locations
+5. finish with VacationPy to find potential and ideal beach locations
+
 ### Part 1: WeatherPy
 
 ***Create a Python script to visualize the weather of over 500 cities of varying distances from the equator.***
